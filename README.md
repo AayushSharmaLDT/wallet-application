@@ -13,6 +13,7 @@ A Spring Boot-based wallet imitation application for user registration, money tr
 - Transfer Money
 - Secure Password Encryption
 - Validations
+- Abstraction
 
 ## Dependencies
 - Spring Web
